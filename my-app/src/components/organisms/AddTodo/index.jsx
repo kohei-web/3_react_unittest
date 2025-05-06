@@ -6,7 +6,7 @@
  */
 
 import InputForm from "../../atoms/InputForm";
-import styles from "../../../commons/style.module.css";
+import styles from "../../../assets/commons/style.module.css";
 
 /**
  *
